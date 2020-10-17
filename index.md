@@ -1,7 +1,7 @@
 # Kenny Mejia's Repo
 
-[My GitHub](https://github.com/kennymejia)
-[My LinkedIn](https://www.linkedin.com/in/mejia-kenny)
+[Link To My GitHub](https://github.com/kennymejia)  
+[Link To My LinkedIn](https://www.linkedin.com/in/mejia-kenny)
 
 ## About Me
 ```markdown
@@ -53,7 +53,7 @@ dimension, match with an existing painting in database with similar fractal dime
 * Entity-Relationship Diagram was created along with the professional documentation
 * Project used to run local OCCC tournament
 
-[**Snake 3D**](https://github.com/kennymejia/snake3D) - Spring 2020
+[**Snake 3D**](https://github.com/kennymejia/snake3D) - Spring 2020  
 *P5.js, JavaScript, Node.js*
 * Base Game Inspired By David Briccetti's [YouTube Tutorial](https://www.youtube.com/watch?v=MXkav71YZ_0)
 * The basic mechanics of the game are the same as the original snake game, try to get the
