@@ -17,7 +17,7 @@ a puzzle where you have to find the best answer whichever way possible.
 
 ## Projects
 
-**[The Oregon Trail]**(https://github.com/kennymejia/ProjectOT) - Fall 2018 
+[**The Oregon Trail**](https://github.com/kennymejia/ProjectOT) - Fall 2018 
 *Git, Node.js, Express, mySQL, HTML, CSS, JavaScript*
 
 * Recreates the classic game The Oregon Trail as a single page application
