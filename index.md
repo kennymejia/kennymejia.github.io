@@ -15,14 +15,30 @@ essentially how effective the solution is in solving said problem. In this respe
 a puzzle where you have to find the best answer whichever way possible.
 ```
 
+## Projects
+
+[The Oregon Trail](https://github.com/kennymejia/ProjectOT) - Fall 2018 
+
+* Recreates the classic game The Oregon Trail as a single page application
+
+* Client Side design uses HTML, CSS, JavaScript and some Photoshop
+ie. Landing page, main menu, top scores, game setup, main game
+
+* Server Side used a RESTful API for asynchronous client-server communication
+
+* RESTful APIs use our routing layer to receive the message from client, determine
+action to be taken, and call the correct controller to satisfy the request
+
+* Controllers are used to translate the JSON message received
+
+* Game saves top 10 scores to a mysql database, game will read the top 10 list from the
+database and update when there are changes using prepared statements
 
 
 
-## Welcome to GitHub
 
-You can use the [editor on GitHub](https://github.com/kennymejia/kennymejia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
