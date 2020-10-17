@@ -47,7 +47,7 @@ dimension, match with an existing painting in database with similar fractal dime
 * Implemented 6502 instruction set on the virtual machine
 * Created program in machine code to execute on the virtual machine
 
-[**eSports tournament relational database**](https://github.com/kennymejia/eSportsDB) - Fall 2018  
+[**eSports Tournament Relational Database**](https://github.com/kennymejia/eSportsDB) - Fall 2018  
 *Oracle SQL Developer and Data Modeler*
 * Wrote SQL for the creation of the tables as well as the insertion of test data
 * Entity-Relationship Diagram was created along with the professional documentation
