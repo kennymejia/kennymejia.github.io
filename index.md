@@ -1,4 +1,6 @@
-# About Me
+# Kenny Mejia's Repo
+
+## About Me
 ```markdown
 Hello There! First and foremost, thank you for taking the time to look at my repository.
 I am a lifelong Newburgh, NY resident who has achieved his goal of being a first generation 
