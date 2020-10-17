@@ -1,5 +1,6 @@
 # Kenny Mejia's Repo
 
+[My GitHub](https://github.com/kennymejia)
 [My LinkedIn](https://www.linkedin.com/in/mejia-kenny)
 
 ## About Me
@@ -57,4 +58,7 @@ dimension, match with an existing painting in database with similar fractal dime
 * Base Game Inspired By David Briccetti's [YouTube Tutorial](https://www.youtube.com/watch?v=MXkav71YZ_0)
 * The basic mechanics of the game are the same as the original snake game, try to get the
 snake food without crashing into yourself or the edge of the arena and go out of bounds
-* 
+* For this game the snake can go in the X, Y, and Z coordinate system
+* Uses P5.js JavaScript client side library to create the graphic and interactive experiences
+* Node.js is used to run the JavaScript on the web page 
+* HTML and CSS are used to create the webpages
