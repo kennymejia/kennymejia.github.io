@@ -1,5 +1,7 @@
 # Kenny Mejia's Repo
 
+[My LinkedIn](https://www.linkedin.com/in/mejia-kenny)
+
 ## About Me
 ```markdown
 Hello There! First and foremost, thank you for taking the time to look at my repository.
@@ -16,8 +18,7 @@ a puzzle where you have to find the best answer whichever way possible.
 ```
 
 ## Projects
-
-[**The Oregon Trail**](https://github.com/kennymejia/ProjectOT) - Fall 2018 
+[**The Oregon Trail**](https://github.com/kennymejia/ProjectOT) - Fall 2018  
 *Git, Node.js, Express, mySQL, HTML, CSS, JavaScript*
 * Recreates the classic game The Oregon Trail as a single page application
 * Client Side design uses HTML, CSS, JavaScript and some Photoshop
@@ -29,7 +30,7 @@ action to be taken, and call the correct controller to satisfy the request
 * Game saves top 10 scores to a mysql database, game will read the top 10 list from the
 database and update when there are changes using prepared statements
 
-[**Fractal Factory Team Project**](https://github.com/kennymejia/ProjectFractalFactory) - Fall 2019
+[**Fractal Factory Team Project**](https://github.com/kennymejia/ProjectFractalFactory) - Fall 2019  
 *Git, Node.js, Postgres, HTML, CSS, Python, SQL, JavaScript*
 * Users upload source code, turn it into an image of blocks, calculate its fractal
 dimension, match with an existing painting in database with similar fractal dimension
@@ -38,15 +39,17 @@ dimension, match with an existing painting in database with similar fractal dime
 * Users have a unique profile page with paintings created listed in descending order
 * Canvas Pop API implemented so users can print created paintings
 
-[**Operating Systems Project**](https://github.com/kennymejia/ProjectOS) - Spring 2020
+[**Operating Systems Project**](https://github.com/kennymejia/ProjectOS) - Spring 2020  
 *Node.js, JavaScript, TypeScript*
 * “virtual” 6502 computer with our operating system sitting on top
 * Logically built CPU, RAM, Clock, MMU, Interrupt Controller using Typescript
 * Implemented 6502 instruction set on the virtual machine
 * Created program in machine code to execute on the virtual machine
 
-[**eSports tournament relational database**](https://github.com/kennymejia/eSportsDB) - Fall 2018
+[**eSports tournament relational database**](https://github.com/kennymejia/eSportsDB) - Fall 2018  
 *Oracle SQL Developer and Data Modeler*
 * Wrote SQL for the creation of the tables as well as the insertion of test data
 * Entity-Relationship Diagram was created along with the professional documentation
 * Project used to run local OCCC tournament
+
+[**Snake 3D**](https://github.com/kennymejia/snake3D) - Spring 2020
