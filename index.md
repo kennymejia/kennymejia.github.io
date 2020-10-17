@@ -17,20 +17,16 @@ a puzzle where you have to find the best answer whichever way possible.
 
 ## Projects
 
-[The Oregon Trail](https://github.com/kennymejia/ProjectOT) - Fall 2018 
+**[The Oregon Trail]**(https://github.com/kennymejia/ProjectOT) - Fall 2018 
+*Git, Node.js, Express, mySQL, HTML, CSS, JavaScript*
 
 * Recreates the classic game The Oregon Trail as a single page application
-
 * Client Side design uses HTML, CSS, JavaScript and some Photoshop
 ie. Landing page, main menu, top scores, game setup, main game
-
 * Server Side used a RESTful API for asynchronous client-server communication
-
 * RESTful APIs use our routing layer to receive the message from client, determine
 action to be taken, and call the correct controller to satisfy the request
-
 * Controllers are used to translate the JSON message received
-
 * Game saves top 10 scores to a mysql database, game will read the top 10 list from the
 database and update when there are changes using prepared statements
 
