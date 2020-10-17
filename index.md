@@ -53,3 +53,8 @@ dimension, match with an existing painting in database with similar fractal dime
 * Project used to run local OCCC tournament
 
 [**Snake 3D**](https://github.com/kennymejia/snake3D) - Spring 2020
+*P5.js, JavaScript, Node.js*
+* Base Game Inspired By David Briccetti's [YouTube Tutorial](https://www.youtube.com/watch?v=MXkav71YZ_0)
+* The basic mechanics of the game are the same as the original snake game, try to get the
+snake food without crashing into yourself or the edge of the arena and go out of bounds
+* 
