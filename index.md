@@ -18,8 +18,7 @@ a puzzle where you have to find the best answer whichever way possible.
 ## Projects
 
 [**The Oregon Trail**](https://github.com/kennymejia/ProjectOT) - Fall 2018 
-(*Git, Node.js, Express, mySQL, HTML, CSS, JavaScript*)
-
+*Git, Node.js, Express, mySQL, HTML, CSS, JavaScript*
 * Recreates the classic game The Oregon Trail as a single page application
 * Client Side design uses HTML, CSS, JavaScript and some Photoshop
 ie. Landing page, main menu, top scores, game setup, main game
@@ -31,8 +30,7 @@ action to be taken, and call the correct controller to satisfy the request
 database and update when there are changes using prepared statements
 
 [**Fractal Factory Team Project**](https://github.com/kennymejia/ProjectFractalFactory) - Fall 2019
-(*Git, Node.js, Postgres, HTML, CSS, Python, SQL, JavaScript*)
-
+*Git, Node.js, Postgres, HTML, CSS, Python, SQL, JavaScript*
 * Users upload source code, turn it into an image of blocks, calculate its fractal
 dimension, match with an existing painting in database with similar fractal dimension
 * Chosen painting is sent through a neural network API that will modify the painting
@@ -41,9 +39,14 @@ dimension, match with an existing painting in database with similar fractal dime
 * Canvas Pop API implemented so users can print created paintings
 
 [**Operating Systems Project**](https://github.com/kennymejia/ProjectOS) - Spring 2020
-(*Node.js, JavaScript, TypeScript*)
-
+*Node.js, JavaScript, TypeScript*
 * “virtual” 6502 computer with our operating system sitting on top
 * Logically built CPU, RAM, Clock, MMU, Interrupt Controller using Typescript
 * Implemented 6502 instruction set on the virtual machine
 * Created program in machine code to execute on the virtual machine
+
+[**eSports tournament relational database**](https://github.com/kennymejia/eSportsDB) - Fall 2018
+*Oracle SQL Developer and Data Modeler*
+* Wrote SQL for the creation of the tables as well as the insertion of test data
+* Entity-Relationship Diagram was created along with the professional documentation
+* Project used to run local OCCC tournament
