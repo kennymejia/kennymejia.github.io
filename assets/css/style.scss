@@ -1,6 +1,11 @@
 @import "{{ site.theme }}";
+
 .main-content {
     h1 {
-     color: #ff0000;
-   }
+        color: #ff0000;
+    }
   }
+
+.site-footer-credits {
+    color:#ff0000
+}
