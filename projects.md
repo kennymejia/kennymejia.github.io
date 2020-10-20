@@ -31,8 +31,9 @@ dimension, match with an existing painting in database with similar fractal dime
 *Oracle SQL Developer and Data Modeler*
 * Wrote SQL for the creation of the tables as well as the insertion of test data
 * Entity-Relationship Diagram was created along with the professional documentation
-* Project used to run local OCCC tournament
-[Documentation](https://drive.google.com/file/d/1wfzsEUTygnrwtIgzXce4PF4jfWlZl0_r/view?usp=sharing)
+* Project used to run local OCCC tournament  
+[Preview](https://drive.google.com/file/d/1u5u_RQMG4WIxLAN0DaUwKUw-VkuZgBKg/view?usp=sharing)
+[Data Dictionary](https://drive.google.com/file/d/1wfzsEUTygnrwtIgzXce4PF4jfWlZl0_r/view?usp=sharing)
 
 [**Snake 3D**](https://github.com/kennymejia/snake3D) - Spring 2020  
 *P5.js, JavaScript, Node.js*
