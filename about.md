@@ -1,8 +1,8 @@
 ## About Me
 ```markdown
 Hello There! First and foremost, thank you for taking the time to look at my repository.
-I am a lifelong Newburgh, NY resident who has achieved his goal of being a first generation 
-college graduate in my family. I attended Orange County Community College for the first two 
+I am a lifelong Newburgh, NY resident who has achieved so much with so little. I am a first 
+generation college graduate. I attended Orange County Community College for the first two 
 years of my educational journey. I transfered out of this college with a 3.5 GPA and with 
 membership in the Phi Theta Kappa Honor Society. Marist College was where I graduated with my 
 BS in Computer Science with a 3.7 GPA and with Magna Cum Laude Latin Honors. My concentration
