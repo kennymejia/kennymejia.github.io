@@ -1,5 +1,5 @@
 ## About Me
-```markdown
+
 Hello There! First and foremost, thank you for taking the time to look at my repository.
 I am a lifelong Newburgh, NY resident who has achieved so much with so little. I am a first 
 generation college graduate. I attended Orange County Community College for the first two 
@@ -11,4 +11,3 @@ What I find most fascinating is the ability to create an endless amount of progr
 syntax. Any problem can be solved in many different ways but what sets every solution is 
 essentially how effective the solution is in solving said problem. In this respect it is like 
 a puzzle where you have to find the best answer whichever way possible.
-```
