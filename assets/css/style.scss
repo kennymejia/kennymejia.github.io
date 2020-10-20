@@ -4,13 +4,18 @@
 @import"{{ site.theme }}";
 
 .main-content {
-    h1 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         color: #0000ff;
     }
 }
 
 .page-header {
     color:#ffff;
-    background-color:#A067AB;
+    background-color:#00D4FF;
     background-image:linear-gradient(120deg,#0000FF,#00D4FF);
 }
