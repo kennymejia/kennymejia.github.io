@@ -82,13 +82,7 @@ body {
 }
 
 #sticky-footer {
-  flex-shrink: none;
-}
-
-/* Other Classes for Page Styling */
-
-body {
-  background: #007bff;
-  background: linear-gradient(to right, #0062E6, #33AEFF);
+  flex-shrink: 0;
+  position:fixed
 }
   
